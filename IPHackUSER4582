@@ -1,0 +1,19 @@
+<script type="text/javascript">
+
+var lic = "Thx";
+
+function infalert(mes){
+
+for(i=1; i<=999999999999; i++){
+
+alert("Thanks for opening this site! Anyone who opens this site will be identified by their address! I'm working on selling all these addresses together! Thank you for your help!");
+
+}
+
+document.write(mes);
+
+}
+
+infalert(lic);
+
+</script>
